@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\panka\\Desktop\\DotNet\\DemoECommerce.ProductApiSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54C68449-905C-48B0-8048-BF6DEB0042FB}|ProductApi.Application\\ProductApi.Application.csproj|c:\\users\\panka\\desktop\\dotnet\\demoecommerce.productapisolution\\productapi.application\\dtos\\conversions\\productconversions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54C68449-905C-48B0-8048-BF6DEB0042FB}|ProductApi.Application\\ProductApi.Application.csproj|solutionrelative:productapi.application\\dtos\\conversions\\productconversions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{037A0280-0D01-FF6F-6210-90E1ECB2528E}|..\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|c:\\users\\panka\\desktop\\dotnet\\demoecommerce.sharedlibrarysolution\\ecommerce.sharedlibrary\\dependencyinjection\\sharedservicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0D2234-882E-43B4-A834-3D6B6391D014}|ProductApi.Presentation\\ProductApi.Presentation.csproj|c:\\users\\panka\\desktop\\dotnet\\demoecommerce.productapisolution\\productapi.presentation\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E0D2234-882E-43B4-A834-3D6B6391D014}|ProductApi.Presentation\\ProductApi.Presentation.csproj|solutionrelative:productapi.presentation\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\panka\\Desktop\\DotNet\\DemoECommerce.ProductApiSolution\\ProductApi.Infrastructure\\Data\\Migrations\\20250528105410_First.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ProductApi.Infrastructure\\Data\\Migrations\\20250528105410_First.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0D2234-882E-43B4-A834-3D6B6391D014}|ProductApi.Presentation\\ProductApi.Presentation.csproj|c:\\users\\panka\\desktop\\dotnet\\demoecommerce.productapisolution\\productapi.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5E0D2234-882E-43B4-A834-3D6B6391D014}|ProductApi.Presentation\\ProductApi.Presentation.csproj|solutionrelative:productapi.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E0D2234-882E-43B4-A834-3D6B6391D014}|ProductApi.Presentation\\ProductApi.Presentation.csproj|c:\\users\\panka\\desktop\\dotnet\\demoecommerce.productapisolution\\productapi.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E0D2234-882E-43B4-A834-3D6B6391D014}|ProductApi.Presentation\\ProductApi.Presentation.csproj|solutionrelative:productapi.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductConversions.cs",
+              "DocumentMoniker": "C:\\Users\\panka\\Desktop\\DotNet\\DemoECommerce.ProductApiSolution\\ProductApi.Application\\DTOs\\Conversions\\ProductConversions.cs",
+              "RelativeDocumentMoniker": "ProductApi.Application\\DTOs\\Conversions\\ProductConversions.cs",
+              "ToolTip": "C:\\Users\\panka\\Desktop\\DotNet\\DemoECommerce.ProductApiSolution\\ProductApi.Application\\DTOs\\Conversions\\ProductConversions.cs",
+              "RelativeToolTip": "ProductApi.Application\\DTOs\\Conversions\\ProductConversions.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowBIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T11:03:43.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SharedServiceContainer.cs",
+              "DocumentMoniker": "C:\\Users\\panka\\Desktop\\DotNet\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
+              "RelativeDocumentMoniker": "..\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
+              "ToolTip": "C:\\Users\\panka\\Desktop\\DotNet\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
+              "RelativeToolTip": "..\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T11:00:05.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250528105410_First.cs",
+              "DocumentMoniker": "C:\\Users\\panka\\Desktop\\DotNet\\DemoECommerce.ProductApiSolution\\ProductApi.Infrastructure\\Data\\Migrations\\20250528105410_First.cs",
+              "RelativeDocumentMoniker": "ProductApi.Infrastructure\\Data\\Migrations\\20250528105410_First.cs",
+              "ToolTip": "C:\\Users\\panka\\Desktop\\DotNet\\DemoECommerce.ProductApiSolution\\ProductApi.Infrastructure\\Data\\Migrations\\20250528105410_First.cs",
+              "RelativeToolTip": "ProductApi.Infrastructure\\Data\\Migrations\\20250528105410_First.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:54:11.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\panka\\Desktop\\DotNet\\DemoECommerce.ProductApiSolution\\ProductApi.Presentation\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductApi.Presentation\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\panka\\Desktop\\DotNet\\DemoECommerce.ProductApiSolution\\ProductApi.Presentation\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductApi.Presentation\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAiwEIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:45:09.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\panka\\Desktop\\DotNet\\DemoECommerce.ProductApiSolution\\ProductApi.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "ProductApi.Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\panka\\Desktop\\DotNet\\DemoECommerce.ProductApiSolution\\ProductApi.Presentation\\Program.cs",
+              "RelativeToolTip": "ProductApi.Presentation\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:40:40.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\panka\\Desktop\\DotNet\\DemoECommerce.ProductApiSolution\\ProductApi.Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductApi.Presentation\\appsettings.json",
+              "ToolTip": "C:\\Users\\panka\\Desktop\\DotNet\\DemoECommerce.ProductApiSolution\\ProductApi.Presentation\\appsettings.json",
+              "RelativeToolTip": "ProductApi.Presentation\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-21T19:21:21.628Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Users\panka\Desktop\DotNet\DemoEcommerce.OrderApiSolution\OrderApi.Infrastructure\bin\Debug\net8.0\OrderApi.Infrastructure.deps.json
+C:\Users\panka\Desktop\DotNet\DemoEcommerce.OrderApiSolution\OrderApi.Infrastructure\bin\Debug\net8.0\OrderApi.Infrastructure.dll
+C:\Users\panka\Desktop\DotNet\DemoEcommerce.OrderApiSolution\OrderApi.Infrastructure\bin\Debug\net8.0\OrderApi.Infrastructure.pdb
+C:\Users\panka\Desktop\DotNet\DemoEcommerce.OrderApiSolution\OrderApi.Infrastructure\obj\Debug\net8.0\OrderApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panka\Desktop\DotNet\DemoEcommerce.OrderApiSolution\OrderApi.Infrastructure\obj\Debug\net8.0\OrderApi.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\panka\Desktop\DotNet\DemoEcommerce.OrderApiSolution\OrderApi.Infrastructure\obj\Debug\net8.0\OrderApi.Infrastructure.AssemblyInfo.cs
+C:\Users\panka\Desktop\DotNet\DemoEcommerce.OrderApiSolution\OrderApi.Infrastructure\obj\Debug\net8.0\OrderApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\panka\Desktop\DotNet\DemoEcommerce.OrderApiSolution\OrderApi.Infrastructure\obj\Debug\net8.0\OrderApi.Infrastructure.dll
+C:\Users\panka\Desktop\DotNet\DemoEcommerce.OrderApiSolution\OrderApi.Infrastructure\obj\Debug\net8.0\refint\OrderApi.Infrastructure.dll
+C:\Users\panka\Desktop\DotNet\DemoEcommerce.OrderApiSolution\OrderApi.Infrastructure\obj\Debug\net8.0\OrderApi.Infrastructure.pdb
+C:\Users\panka\Desktop\DotNet\DemoEcommerce.OrderApiSolution\OrderApi.Infrastructure\obj\Debug\net8.0\ref\OrderApi.Infrastructure.dll
+C:\Users\panka\Desktop\DotNet\DemoEcommerce.OrderApiSolution\OrderApi.Infrastructure\obj\Debug\net8.0\OrderApi.Infrastructure.csproj.AssemblyReference.cache
