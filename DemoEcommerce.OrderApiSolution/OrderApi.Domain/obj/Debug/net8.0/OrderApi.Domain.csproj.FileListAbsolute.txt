@@ -9,3 +9,15 @@ C:\Users\panka\Desktop\DotNet\DemoEcommerce.OrderApiSolution\OrderApi.Domain\obj
 C:\Users\panka\Desktop\DotNet\DemoEcommerce.OrderApiSolution\OrderApi.Domain\obj\Debug\net8.0\refint\OrderApi.Domain.dll
 C:\Users\panka\Desktop\DotNet\DemoEcommerce.OrderApiSolution\OrderApi.Domain\obj\Debug\net8.0\OrderApi.Domain.pdb
 C:\Users\panka\Desktop\DotNet\DemoEcommerce.OrderApiSolution\OrderApi.Domain\obj\Debug\net8.0\ref\OrderApi.Domain.dll
+C:\Users\panka\Desktop\DotNet\ECommerce\DemoEcommerce.OrderApiSolution\OrderApi.Domain\bin\Debug\net8.0\OrderApi.Domain.deps.json
+C:\Users\panka\Desktop\DotNet\ECommerce\DemoEcommerce.OrderApiSolution\OrderApi.Domain\bin\Debug\net8.0\OrderApi.Domain.dll
+C:\Users\panka\Desktop\DotNet\ECommerce\DemoEcommerce.OrderApiSolution\OrderApi.Domain\bin\Debug\net8.0\OrderApi.Domain.pdb
+C:\Users\panka\Desktop\DotNet\ECommerce\DemoEcommerce.OrderApiSolution\OrderApi.Domain\obj\Debug\net8.0\OrderApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panka\Desktop\DotNet\ECommerce\DemoEcommerce.OrderApiSolution\OrderApi.Domain\obj\Debug\net8.0\OrderApi.Domain.AssemblyInfoInputs.cache
+C:\Users\panka\Desktop\DotNet\ECommerce\DemoEcommerce.OrderApiSolution\OrderApi.Domain\obj\Debug\net8.0\OrderApi.Domain.AssemblyInfo.cs
+C:\Users\panka\Desktop\DotNet\ECommerce\DemoEcommerce.OrderApiSolution\OrderApi.Domain\obj\Debug\net8.0\OrderApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\panka\Desktop\DotNet\ECommerce\DemoEcommerce.OrderApiSolution\OrderApi.Domain\obj\Debug\net8.0\OrderApi.Domain.sourcelink.json
+C:\Users\panka\Desktop\DotNet\ECommerce\DemoEcommerce.OrderApiSolution\OrderApi.Domain\obj\Debug\net8.0\OrderApi.Domain.dll
+C:\Users\panka\Desktop\DotNet\ECommerce\DemoEcommerce.OrderApiSolution\OrderApi.Domain\obj\Debug\net8.0\refint\OrderApi.Domain.dll
+C:\Users\panka\Desktop\DotNet\ECommerce\DemoEcommerce.OrderApiSolution\OrderApi.Domain\obj\Debug\net8.0\OrderApi.Domain.pdb
+C:\Users\panka\Desktop\DotNet\ECommerce\DemoEcommerce.OrderApiSolution\OrderApi.Domain\obj\Debug\net8.0\ref\OrderApi.Domain.dll

@@ -42,13 +42,6 @@ namespace eCommerce.SharedLibrary.Middleware
                     statusCode = (int)StatusCodes.Status403Forbidden;
                     await ModifyHeader(context, title, message, statusCode);
                 }
-
-
-
-
-
-
-
             }
             catch (Exception ex) 
             {

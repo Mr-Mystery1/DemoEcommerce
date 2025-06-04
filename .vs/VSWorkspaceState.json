@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DemoEcommerce.OrderApiSolution",
+    "\\DemoEcommerce.OrderApiSolution\\OrderApi.Infrastructure",
+    "\\DemoEcommerce.OrderApiSolution\\OrderApi.Infrastructure\\Repositories"
+  ],
+  "SelectedNode": "\\DemoEcommerce.OrderApiSolution\\OrderApi.Infrastructure\\Repositories\\OrderRepository.cs",
+  "PreviewInSolutionExplorer": false
+}

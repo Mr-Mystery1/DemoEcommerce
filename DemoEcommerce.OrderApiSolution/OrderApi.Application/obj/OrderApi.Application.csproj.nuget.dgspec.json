@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\panka\\Desktop\\DotNet\\DemoEcommerce.OrderApiSolution\\OrderApi.Application\\OrderApi.Application.csproj": {}
+    "C:\\Users\\panka\\Desktop\\DotNet\\ECommerce\\DemoEcommerce.OrderApiSolution\\OrderApi.Application\\OrderApi.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\panka\\Desktop\\DotNet\\DemoEcommerce.OrderApiSolution\\OrderApi.Application\\OrderApi.Application.csproj": {
+    "C:\\Users\\panka\\Desktop\\DotNet\\ECommerce\\DemoEcommerce.OrderApiSolution\\OrderApi.Application\\OrderApi.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\panka\\Desktop\\DotNet\\DemoEcommerce.OrderApiSolution\\OrderApi.Application\\OrderApi.Application.csproj",
+        "projectUniqueName": "C:\\Users\\panka\\Desktop\\DotNet\\ECommerce\\DemoEcommerce.OrderApiSolution\\OrderApi.Application\\OrderApi.Application.csproj",
         "projectName": "OrderApi.Application",
-        "projectPath": "C:\\Users\\panka\\Desktop\\DotNet\\DemoEcommerce.OrderApiSolution\\OrderApi.Application\\OrderApi.Application.csproj",
+        "projectPath": "C:\\Users\\panka\\Desktop\\DotNet\\ECommerce\\DemoEcommerce.OrderApiSolution\\OrderApi.Application\\OrderApi.Application.csproj",
         "packagesPath": "C:\\Users\\panka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\panka\\Desktop\\DotNet\\DemoEcommerce.OrderApiSolution\\OrderApi.Application\\obj\\",
+        "outputPath": "C:\\Users\\panka\\Desktop\\DotNet\\ECommerce\\DemoEcommerce.OrderApiSolution\\OrderApi.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\panka\\Desktop\\DotNet\\DemoEcommerce.OrderApiSolution\\OrderApi.Domain\\OrderApi.Domain.csproj": {
-                "projectPath": "C:\\Users\\panka\\Desktop\\DotNet\\DemoEcommerce.OrderApiSolution\\OrderApi.Domain\\OrderApi.Domain.csproj"
+              "C:\\Users\\panka\\Desktop\\DotNet\\ECommerce\\DemoEcommerce.OrderApiSolution\\OrderApi.Domain\\OrderApi.Domain.csproj": {
+                "projectPath": "C:\\Users\\panka\\Desktop\\DotNet\\ECommerce\\DemoEcommerce.OrderApiSolution\\OrderApi.Domain\\OrderApi.Domain.csproj"
               },
-              "C:\\Users\\panka\\Desktop\\DotNet\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj": {
-                "projectPath": "C:\\Users\\panka\\Desktop\\DotNet\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj"
+              "C:\\Users\\panka\\Desktop\\DotNet\\ECommerce\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj": {
+                "projectPath": "C:\\Users\\panka\\Desktop\\DotNet\\ECommerce\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj"
               }
             }
           }
@@ -90,14 +90,14 @@
         }
       }
     },
-    "C:\\Users\\panka\\Desktop\\DotNet\\DemoEcommerce.OrderApiSolution\\OrderApi.Domain\\OrderApi.Domain.csproj": {
+    "C:\\Users\\panka\\Desktop\\DotNet\\ECommerce\\DemoEcommerce.OrderApiSolution\\OrderApi.Domain\\OrderApi.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\panka\\Desktop\\DotNet\\DemoEcommerce.OrderApiSolution\\OrderApi.Domain\\OrderApi.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\panka\\Desktop\\DotNet\\ECommerce\\DemoEcommerce.OrderApiSolution\\OrderApi.Domain\\OrderApi.Domain.csproj",
         "projectName": "OrderApi.Domain",
-        "projectPath": "C:\\Users\\panka\\Desktop\\DotNet\\DemoEcommerce.OrderApiSolution\\OrderApi.Domain\\OrderApi.Domain.csproj",
+        "projectPath": "C:\\Users\\panka\\Desktop\\DotNet\\ECommerce\\DemoEcommerce.OrderApiSolution\\OrderApi.Domain\\OrderApi.Domain.csproj",
         "packagesPath": "C:\\Users\\panka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\panka\\Desktop\\DotNet\\DemoEcommerce.OrderApiSolution\\OrderApi.Domain\\obj\\",
+        "outputPath": "C:\\Users\\panka\\Desktop\\DotNet\\ECommerce\\DemoEcommerce.OrderApiSolution\\OrderApi.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -155,14 +155,14 @@
         }
       }
     },
-    "C:\\Users\\panka\\Desktop\\DotNet\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj": {
+    "C:\\Users\\panka\\Desktop\\DotNet\\ECommerce\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\panka\\Desktop\\DotNet\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\panka\\Desktop\\DotNet\\ECommerce\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj",
         "projectName": "eCommerce.SharedLibrary",
-        "projectPath": "C:\\Users\\panka\\Desktop\\DotNet\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj",
+        "projectPath": "C:\\Users\\panka\\Desktop\\DotNet\\ECommerce\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj",
         "packagesPath": "C:\\Users\\panka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\panka\\Desktop\\DotNet\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\obj\\",
+        "outputPath": "C:\\Users\\panka\\Desktop\\DotNet\\ECommerce\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
