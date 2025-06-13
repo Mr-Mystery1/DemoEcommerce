@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\panka\\Desktop\\DotNet\\ECommerce\\DemoEcommerce.OrderApiSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{21FDB5D1-7460-4CB0-B4AB-7C8369C3A75A}|OrderApi.Presentation\\OrderApi.Presentation.csproj|c:\\users\\panka\\desktop\\dotnet\\ecommerce\\demoecommerce.orderapisolution\\orderapi.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{21FDB5D1-7460-4CB0-B4AB-7C8369C3A75A}|OrderApi.Presentation\\OrderApi.Presentation.csproj|solutionrelative:orderapi.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{5306A2C9-E152-4C05-92E2-03865C558225}|OrderApi.Application\\OrderApi.Application.csproj|c:\\users\\panka\\desktop\\dotnet\\ecommerce\\demoecommerce.orderapisolution\\orderapi.application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5306A2C9-E152-4C05-92E2-03865C558225}|OrderApi.Application\\OrderApi.Application.csproj|solutionrelative:orderapi.application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5306A2C9-E152-4C05-92E2-03865C558225}|OrderApi.Application\\OrderApi.Application.csproj|c:\\users\\panka\\desktop\\dotnet\\ecommerce\\demoecommerce.orderapisolution\\orderapi.application\\dependencyinjection\\servicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5306A2C9-E152-4C05-92E2-03865C558225}|OrderApi.Application\\OrderApi.Application.csproj|solutionrelative:orderapi.application\\dependencyinjection\\servicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21FDB5D1-7460-4CB0-B4AB-7C8369C3A75A}|OrderApi.Presentation\\OrderApi.Presentation.csproj|c:\\users\\panka\\desktop\\dotnet\\ecommerce\\demoecommerce.orderapisolution\\orderapi.presentation\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{21FDB5D1-7460-4CB0-B4AB-7C8369C3A75A}|OrderApi.Presentation\\OrderApi.Presentation.csproj|solutionrelative:orderapi.presentation\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21FDB5D1-7460-4CB0-B4AB-7C8369C3A75A}|OrderApi.Presentation\\OrderApi.Presentation.csproj|c:\\users\\panka\\desktop\\dotnet\\ecommerce\\demoecommerce.orderapisolution\\orderapi.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{21FDB5D1-7460-4CB0-B4AB-7C8369C3A75A}|OrderApi.Presentation\\OrderApi.Presentation.csproj|solutionrelative:orderapi.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A9C0D5CD-6EAE-4335-9994-5BD512F4B1CD}|OrderApi.Infrastructure\\OrderApi.Infrastructure.csproj|c:\\users\\panka\\desktop\\dotnet\\ecommerce\\demoecommerce.orderapisolution\\orderapi.infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,11 +51,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\panka\\Desktop\\DotNet\\ECommerce\\DemoEcommerce.OrderApiSolution\\OrderApi.Application\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "OrderApi.Application\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\panka\\Desktop\\DotNet\\ECommerce\\DemoEcommerce.OrderApiSolution\\OrderApi.Application\\Services\\OrderService.cs",
+              "RelativeToolTip": "OrderApi.Application\\Services\\OrderService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCAAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T09:50:45.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceContainer.cs",
+              "DocumentMoniker": "C:\\Users\\panka\\Desktop\\DotNet\\ECommerce\\DemoEcommerce.OrderApiSolution\\OrderApi.Application\\DependencyInjection\\ServiceContainer.cs",
+              "RelativeDocumentMoniker": "OrderApi.Application\\DependencyInjection\\ServiceContainer.cs",
+              "ToolTip": "C:\\Users\\panka\\Desktop\\DotNet\\ECommerce\\DemoEcommerce.OrderApiSolution\\OrderApi.Application\\DependencyInjection\\ServiceContainer.cs",
+              "RelativeToolTip": "OrderApi.Application\\DependencyInjection\\ServiceContainer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T09:49:19.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "GlobalException.cs",
               "DocumentMoniker": "C:\\Users\\panka\\Desktop\\DotNet\\ECommerce\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\Middleware\\GlobalException.cs",
               "RelativeDocumentMoniker": "..\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\Middleware\\GlobalException.cs",
@@ -59,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "20250604105835_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\panka\\Desktop\\DotNet\\ECommerce\\DemoEcommerce.OrderApiSolution\\OrderApi.Infrastructure\\Data\\Migrations\\20250604105835_InitialCreate.cs",
               "RelativeDocumentMoniker": "OrderApi.Infrastructure\\Data\\Migrations\\20250604105835_InitialCreate.cs",
@@ -71,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "20250604105450_First.cs",
               "DocumentMoniker": "C:\\Data\\Migrations\\20250604105450_First.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Data\\Migrations\\20250604105450_First.cs",
@@ -83,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "OrderRepository.cs",
               "DocumentMoniker": "C:\\Users\\panka\\Desktop\\DotNet\\ECommerce\\DemoEcommerce.OrderApiSolution\\OrderApi.Infrastructure\\Repositories\\OrderRepository.cs",
               "RelativeDocumentMoniker": "OrderApi.Infrastructure\\Repositories\\OrderRepository.cs",
@@ -95,20 +129,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\panka\\Desktop\\DotNet\\ECommerce\\DemoEcommerce.OrderApiSolution\\OrderApi.Presentation\\appsettings.json",
               "RelativeDocumentMoniker": "OrderApi.Presentation\\appsettings.json",
               "ToolTip": "C:\\Users\\panka\\Desktop\\DotNet\\ECommerce\\DemoEcommerce.OrderApiSolution\\OrderApi.Presentation\\appsettings.json",
               "RelativeToolTip": "OrderApi.Presentation\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-06-04T10:43:53.494Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\panka\\Desktop\\DotNet\\ECommerce\\DemoEcommerce.OrderApiSolution\\OrderApi.Presentation\\Program.cs",
               "RelativeDocumentMoniker": "OrderApi.Presentation\\Program.cs",
@@ -120,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "20250604103628_Fisrt.cs",
               "DocumentMoniker": "C:\\Data\\Migrations\\20250604103628_Fisrt.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Data\\Migrations\\20250604103628_Fisrt.cs",
@@ -132,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "OrderConversion.cs",
               "DocumentMoniker": "C:\\Users\\panka\\Desktop\\DotNet\\ECommerce\\DemoEcommerce.OrderApiSolution\\OrderApi.Application\\DTOs\\Conversion\\OrderConversion.cs",
               "RelativeDocumentMoniker": "OrderApi.Application\\DTOs\\Conversion\\OrderConversion.cs",
@@ -144,16 +178,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "OrdersController.cs",
               "DocumentMoniker": "C:\\Users\\panka\\Desktop\\DotNet\\ECommerce\\DemoEcommerce.OrderApiSolution\\OrderApi.Presentation\\Controllers\\OrdersController.cs",
               "RelativeDocumentMoniker": "OrderApi.Presentation\\Controllers\\OrdersController.cs",
               "ToolTip": "C:\\Users\\panka\\Desktop\\DotNet\\ECommerce\\DemoEcommerce.OrderApiSolution\\OrderApi.Presentation\\Controllers\\OrdersController.cs",
               "RelativeToolTip": "OrderApi.Presentation\\Controllers\\OrdersController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAqwA4AAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwA4AAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-03T13:05:32.921Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 939,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }

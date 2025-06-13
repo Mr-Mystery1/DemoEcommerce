@@ -1,0 +1,16 @@
+C:\Users\panka\Desktop\DotNet\ECommerce\DemoEcommerce.AuthhenticationApiSolution\AuthenticationApi.Application\bin\Debug\net8.0\AuthenticationApi.Application.deps.json
+C:\Users\panka\Desktop\DotNet\ECommerce\DemoEcommerce.AuthhenticationApiSolution\AuthenticationApi.Application\bin\Debug\net8.0\AuthenticationApi.Application.dll
+C:\Users\panka\Desktop\DotNet\ECommerce\DemoEcommerce.AuthhenticationApiSolution\AuthenticationApi.Application\bin\Debug\net8.0\AuthenticationApi.Application.pdb
+C:\Users\panka\Desktop\DotNet\ECommerce\DemoEcommerce.AuthhenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\AuthenticationApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panka\Desktop\DotNet\ECommerce\DemoEcommerce.AuthhenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\AuthenticationApi.Application.AssemblyInfoInputs.cache
+C:\Users\panka\Desktop\DotNet\ECommerce\DemoEcommerce.AuthhenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\AuthenticationApi.Application.AssemblyInfo.cs
+C:\Users\panka\Desktop\DotNet\ECommerce\DemoEcommerce.AuthhenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\AuthenticationApi.Application.csproj.CoreCompileInputs.cache
+C:\Users\panka\Desktop\DotNet\ECommerce\DemoEcommerce.AuthhenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\AuthenticationApi.Application.sourcelink.json
+C:\Users\panka\Desktop\DotNet\ECommerce\DemoEcommerce.AuthhenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\AuthenticationApi.Application.dll
+C:\Users\panka\Desktop\DotNet\ECommerce\DemoEcommerce.AuthhenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\refint\AuthenticationApi.Application.dll
+C:\Users\panka\Desktop\DotNet\ECommerce\DemoEcommerce.AuthhenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\AuthenticationApi.Application.pdb
+C:\Users\panka\Desktop\DotNet\ECommerce\DemoEcommerce.AuthhenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\ref\AuthenticationApi.Application.dll
+C:\Users\panka\Desktop\DotNet\ECommerce\DemoEcommerce.AuthhenticationApiSolution\AuthenticationApi.Application\bin\Debug\net8.0\eCommerce.SharedLibrary.dll
+C:\Users\panka\Desktop\DotNet\ECommerce\DemoEcommerce.AuthhenticationApiSolution\AuthenticationApi.Application\bin\Debug\net8.0\eCommerce.SharedLibrary.pdb
+C:\Users\panka\Desktop\DotNet\ECommerce\DemoEcommerce.AuthhenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\AuthenticationApi.Application.csproj.AssemblyReference.cache
+C:\Users\panka\Desktop\DotNet\ECommerce\DemoEcommerce.AuthhenticationApiSolution\AuthenticationApi.Application\obj\Debug\net8.0\Authenti.F26204DC.Up2Date
