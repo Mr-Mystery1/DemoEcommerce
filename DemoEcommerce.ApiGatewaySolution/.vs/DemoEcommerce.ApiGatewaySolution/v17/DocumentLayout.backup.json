@@ -1,0 +1,64 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\panka\\Desktop\\DotNet\\ECommerce\\DemoEcommerce.ApiGatewaySolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21ABFB94-8D02-4A27-B409-FA5547EC4A8D}|ApiGateway.Presentation\\ApiGateway.Presentation.csproj|c:\\users\\panka\\desktop\\dotnet\\ecommerce\\demoecommerce.apigatewaysolution\\apigateway.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21ABFB94-8D02-4A27-B409-FA5547EC4A8D}|ApiGateway.Presentation\\ApiGateway.Presentation.csproj|solutionrelative:apigateway.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21ABFB94-8D02-4A27-B409-FA5547EC4A8D}|ApiGateway.Presentation\\ApiGateway.Presentation.csproj|c:\\users\\panka\\desktop\\dotnet\\ecommerce\\demoecommerce.apigatewaysolution\\apigateway.presentation\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{21ABFB94-8D02-4A27-B409-FA5547EC4A8D}|ApiGateway.Presentation\\ApiGateway.Presentation.csproj|solutionrelative:apigateway.presentation\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 939,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\panka\\Desktop\\DotNet\\ECommerce\\DemoEcommerce.ApiGatewaySolution\\ApiGateway.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "ApiGateway.Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\panka\\Desktop\\DotNet\\ECommerce\\DemoEcommerce.ApiGatewaySolution\\ApiGateway.Presentation\\Program.cs",
+              "RelativeToolTip": "ApiGateway.Presentation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T07:14:33.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "C:\\Users\\panka\\Desktop\\DotNet\\ECommerce\\DemoEcommerce.ApiGatewaySolution\\ApiGateway.Presentation\\ocelot.json",
+              "RelativeDocumentMoniker": "ApiGateway.Presentation\\ocelot.json",
+              "ToolTip": "C:\\Users\\panka\\Desktop\\DotNet\\ECommerce\\DemoEcommerce.ApiGatewaySolution\\ApiGateway.Presentation\\ocelot.json",
+              "RelativeToolTip": "ApiGateway.Presentation\\ocelot.json",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAIwI4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-13T12:49:27.491Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 939,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -27,10 +27,10 @@ namespace OrderApi.Application.Services
         public async Task<AppUserDTO> GetUser(int userId)
         {
             // Call Product API using HttpClient
-            // Redirect this call to the API Gateway since user Api does not response to outsiders..
-            //var getUser = await httpClient.GetAsync($"/api/products/{userId}");
+            // Redirect this call to the API Gateway since Product Api does not response to outsiders..
+            var getUser = await httpClient.GetAsync($"/api/authentication/{userId}");
 
-            var getUser = await httpClient.GetAsync($"http://localhost:5000/api/Authentication/{userId}");
+            //var getUser = await httpClient.GetAsync($"http://localhost:5000/api/Authentication/{userId}");
             if (!getUser.IsSuccessStatusCode)
                 return null!;
 

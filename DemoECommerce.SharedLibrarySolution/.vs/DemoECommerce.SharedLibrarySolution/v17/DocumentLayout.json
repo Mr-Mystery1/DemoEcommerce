@@ -1,12 +1,47 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\panka\\Desktop\\DotNet\\DemoECommerce.SharedLibrarySolution\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\panka\\Desktop\\DotNet\\ECommerce\\DemoECommerce.SharedLibrarySolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA14F8F-4B81-42BC-BAD5-73318A83ECBA}|eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|c:\\users\\panka\\desktop\\dotnet\\ecommerce\\demoecommerce.sharedlibrarysolution\\ecommerce.sharedlibrary\\dependencyinjection\\sharedservicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFA14F8F-4B81-42BC-BAD5-73318A83ECBA}|eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj|solutionrelative:ecommerce.sharedlibrary\\dependencyinjection\\sharedservicecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 939,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SharedServiceContainer.cs",
+              "DocumentMoniker": "C:\\Users\\panka\\Desktop\\DotNet\\ECommerce\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
+              "RelativeDocumentMoniker": "eCommerce.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
+              "ToolTip": "C:\\Users\\panka\\Desktop\\DotNet\\ECommerce\\DemoECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
+              "RelativeToolTip": "eCommerce.SharedLibrary\\DependencyInjection\\SharedServiceContainer.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T09:18:09.217Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 939,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
